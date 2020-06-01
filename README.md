@@ -1,2 +1,2 @@
 # PowerShell
-Various PowerShell scripts
+Various PowerShell scripts created over time.
